@@ -9,7 +9,7 @@ import Edit from "./components/edit";
 function App() {
   return (
     <div className="App">
-      <h1>Code With Me</h1>
+      <h1>Crud App</h1>
       <Router>
         <Routes>
           <Route path="/" element={<Home />} />
