@@ -1,24 +1,24 @@
 const users = [
     {
         id: "1",
-        Name: "Mano",
-        Email: "mano@gmail.com",
-        MobileNumber: "9655980596",
-        Age: 21,
+        Name: "", //eg:Vijay
+        Email: "", //eg:vijay@gmail.com
+        MobileNumber: "", //eg:ph num
+        Age: 20,
     },
     {
         id: "2",
-        Name: "Balamurugan",
-        Email: "Balamurugan@gmail.com",
-        MobileNumber: "9751846414",
-        Age: 46,
+        Name: "", //eg:your name
+        Email: "", //eg:@gmail.com
+        MobileNumber: "", //eg:ph num
+        Age: 25,
     },
     {
         id: "3",
-        Name: "Dinesh",
-        Email: "Dinesh@gmail.com",
-        MobileNumber: "8946083701",
-        Age: 20,
+        Name: "", //eg:your name
+        Email: "", //eg:@gmail.com
+        MobileNumber: "", //eg:ph num
+        Age: 28,
     },
 ]
 
